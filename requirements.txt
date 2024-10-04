@@ -1,0 +1,8 @@
+git-python==1.0.3
+sacrebleu==1.4.2
+rouge_score
+farasapy
+pyarabic
+datasets
+transformers==4.5.1
+simplet5
